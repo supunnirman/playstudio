@@ -12,4 +12,5 @@
   <event ts="2026-03-20T23:20:12.934947" type="checkout" user="Sandali" detail="TKT-54154B08 | Walk-in | 4h 22m | LKR 655" />
   <event ts="2026-03-20T23:20:25.943238" type="checkin" user="Sandali" detail="TKT-A8EC88F7 | Walk-in | standard | kids=1" />
   <event ts="2026-03-20T23:20:40.120163" type="checkout" user="Sandali" detail="TKT-A8EC88F7 | Walk-in | 0m 14s | LKR 75" />
+  <event ts="2026-03-20T23:21:18.694916" type="day_stop" user="Shanaka Sen" detail="Closing: LKR 2,340" />
 </log>
