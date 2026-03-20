@@ -161,5 +161,25 @@
     "tax_amt": 0.0,
     "total": 301.6970545833333,
     "items_total": 120
+  },
+  {
+    "id": "TKT-BFF3DC30",
+    "name": "Walk-in",
+    "phone": "0775726873",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-20T20:40:18.873948",
+    "customer_id": "CUS-F5C08F78",
+    "shop_items": [],
+    "checkout": "2026-03-20T22:25:52.779183",
+    "date": "2026-03-20",
+    "duration": "1h 45m",
+    "rate": 150,
+    "subtotal": 263.9127154166667,
+    "disc_pct": 10,
+    "disc_amt": 26.39127154166667,
+    "tax_amt": 0.0,
+    "total": 237.52144387500002,
+    "items_total": 0
   }
 ]
