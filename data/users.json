@@ -26,5 +26,15 @@
       "expenses",
       "loyalty"
     ]
+  },
+  {
+    "id": "USR-EB64B201",
+    "name": "Sandali",
+    "username": "sandali",
+    "pin": "111000",
+    "role": "cashier",
+    "perms": [
+      "pos"
+    ]
   }
 ]
