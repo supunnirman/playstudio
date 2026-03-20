@@ -21,4 +21,5 @@
   <event ts="2026-03-20T23:37:53.141225" type="shop_add" user="Sandali" detail="TKT-F8C3D47D | Juice Box | LKR 120" />
   <event ts="2026-03-20T23:38:00.532917" type="shop_add" user="Sandali" detail="TKT-F8C3D47D | Coffee | LKR 200" />
   <event ts="2026-03-20T23:39:45.573282" type="coupon_create" user="Administrator" detail="4HHPCCKC | 5% | one-time | expires 2026-03-21 | by Administrator" />
+  <event ts="2026-03-20T23:41:34.879718" type="coupon_create" user="Administrator" detail="UDCF3VUR | LKR 500 | 5× | expires 2026-03-22 | by Administrator" />
 </log>
