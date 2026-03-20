@@ -17,6 +17,36 @@
         "qty": 1,
         "paid": false,
         "ts": "2026-03-20T23:17:53.868331"
+      },
+      {
+        "id": "SI-12804C4E",
+        "item_id": "SHP-003",
+        "name": "Coffee",
+        "price": 200,
+        "emoji": "☕",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-20T23:17:55.723384"
+      },
+      {
+        "id": "SI-CF2AE337",
+        "item_id": "SHP-005",
+        "name": "Juice Box",
+        "price": 120,
+        "emoji": "🧃",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-20T23:17:56.967090"
+      },
+      {
+        "id": "SI-AC81FBBA",
+        "item_id": "SHP-004",
+        "name": "Water Bottle",
+        "price": 100,
+        "emoji": "💧",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-20T23:17:59.556530"
       }
     ]
   }
