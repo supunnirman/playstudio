@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "TKT-590D0F9F",
+    "name": "Walk-in",
+    "phone": "0775726873",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-20T20:26:47.538033",
+    "customer_id": "CUS-F5C08F78",
+    "shop_items": [],
+    "checkout": "2026-03-20T20:27:28.274718",
+    "date": "2026-03-20",
+    "duration": "0m 40s",
+    "rate": 150,
+    "subtotal": 75.0,
+    "disc_pct": 10,
+    "disc_amt": 7.5,
+    "tax_amt": 0.0,
+    "total": 67.5,
+    "items_total": 0
+  }
+]
