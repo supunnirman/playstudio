@@ -19,4 +19,5 @@
   <event ts="2026-03-20T23:23:29.220676" type="checkin" user="Sandali" detail="TKT-F8C3D47D | Walk-in | standard | kids=1" />
   <event ts="2026-03-20T23:37:46.205479" type="shop_add" user="Sandali" detail="TKT-F8C3D47D | Soft Drink | LKR 150" />
   <event ts="2026-03-20T23:37:53.141225" type="shop_add" user="Sandali" detail="TKT-F8C3D47D | Juice Box | LKR 120" />
+  <event ts="2026-03-20T23:38:00.532917" type="shop_add" user="Sandali" detail="TKT-F8C3D47D | Coffee | LKR 200" />
 </log>
