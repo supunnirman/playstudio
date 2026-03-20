@@ -12,5 +12,19 @@
       "expenses",
       "loyalty"
     ]
+  },
+  {
+    "id": "USR-F9D37D17",
+    "name": "Shanaka Sen",
+    "username": "Shanaka",
+    "pin": "555000",
+    "role": "manager",
+    "perms": [
+      "pos",
+      "finance",
+      "history",
+      "expenses",
+      "loyalty"
+    ]
   }
 ]
