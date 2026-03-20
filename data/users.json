@@ -14,18 +14,6 @@
     ]
   },
   {
-    "id": "USR-1C09C0F4",
-    "name": "Taniya Perera",
-    "username": "taniya",
-    "pin": "444000",
-    "role": "manager",
-    "perms": [
-      "finance",
-      "expenses",
-      "loyalty"
-    ]
-  },
-  {
     "id": "USR-836EAA16",
     "name": "Sandali Geethma",
     "username": "sandali",
