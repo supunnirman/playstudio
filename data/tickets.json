@@ -69,6 +69,17 @@
     "kids": 1,
     "checkin": "2026-03-20T20:38:50.369980",
     "customer_id": "",
-    "shop_items": []
+    "shop_items": [
+      {
+        "id": "SI-F87FF195",
+        "item_id": "SHP-004",
+        "name": "Water Bottle",
+        "price": 100,
+        "emoji": "💧",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-20T20:39:04.690736"
+      }
+    ]
   }
 ]
