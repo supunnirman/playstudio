@@ -13,4 +13,5 @@
   <event ts="2026-03-20T23:20:25.943238" type="checkin" user="Sandali" detail="TKT-A8EC88F7 | Walk-in | standard | kids=1" />
   <event ts="2026-03-20T23:20:40.120163" type="checkout" user="Sandali" detail="TKT-A8EC88F7 | Walk-in | 0m 14s | LKR 75" />
   <event ts="2026-03-20T23:21:18.694916" type="day_stop" user="Shanaka Sen" detail="Closing: LKR 2,340" />
+  <event ts="2026-03-20T23:21:18.867583" type="ui_action" user="Shanaka Sen" detail="Stop Day dialog confirmed — EOD opened" />
 </log>
