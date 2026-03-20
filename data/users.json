@@ -36,5 +36,15 @@
       "finance",
       "expenses"
     ]
+  },
+  {
+    "id": "USR-836EAA16",
+    "name": "Sandali Geethma",
+    "username": "sandali",
+    "pin": "1122",
+    "role": "cashier",
+    "perms": [
+      "pos"
+    ]
   }
 ]
