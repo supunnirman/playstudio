@@ -3,7 +3,7 @@
     "id": "u1",
     "name": "Administrator",
     "username": "admin",
-    "pin": "1234",
+    "pin": "555000",
     "role": "admin",
     "perms": [
       "pos",
