@@ -17,6 +17,16 @@
         "qty": 1,
         "paid": false,
         "ts": "2026-03-20T23:37:46.203830"
+      },
+      {
+        "id": "SI-B236F132",
+        "item_id": "SHP-005",
+        "name": "Juice Box",
+        "price": 120,
+        "emoji": "🧃",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-20T23:37:53.139723"
       }
     ]
   }
