@@ -31,47 +31,6 @@
     ]
   },
   {
-    "id": "TKT-B2D2E3FE",
-    "name": "Walk-in",
-    "phone": "",
-    "type": "standard",
-    "kids": 1,
-    "checkin": "2026-03-20T20:38:50.369980",
-    "customer_id": "",
-    "shop_items": [
-      {
-        "id": "SI-F87FF195",
-        "item_id": "SHP-004",
-        "name": "Water Bottle",
-        "price": 100,
-        "emoji": "💧",
-        "qty": 1,
-        "paid": true,
-        "ts": "2026-03-20T20:39:04.690736"
-      },
-      {
-        "id": "SI-9654BEE9",
-        "item_id": "SHP-004",
-        "name": "Water Bottle",
-        "price": 100,
-        "emoji": "💧",
-        "qty": 1,
-        "paid": true,
-        "ts": "2026-03-20T20:39:05.007397"
-      },
-      {
-        "id": "SI-3A32A37E",
-        "item_id": "SHP-005",
-        "name": "Juice Box",
-        "price": 120,
-        "emoji": "🧃",
-        "qty": 1,
-        "paid": false,
-        "ts": "2026-03-20T20:39:05.586339"
-      }
-    ]
-  },
-  {
     "id": "TKT-BFF3DC30",
     "name": "Walk-in",
     "phone": "0775726873",
