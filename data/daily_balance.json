@@ -7,5 +7,14 @@
     "amount": 5000.0,
     "note": "cashier drawer",
     "user": "Administrator"
+  },
+  {
+    "id": "BAL-90845D54",
+    "date": "2026-03-20",
+    "ts": "2026-03-20T23:16:51.378822",
+    "type": "opening",
+    "amount": 5000.0,
+    "note": "cashier drawer",
+    "user": "Taniya"
   }
 ]
