@@ -30,11 +30,12 @@
     "id": "USR-1C09C0F4",
     "name": "Taniya Perera",
     "username": "taniya",
-    "pin": "4400",
-    "role": "cashier",
+    "pin": "444000",
+    "role": "manager",
     "perms": [
       "finance",
-      "expenses"
+      "expenses",
+      "loyalty"
     ]
   },
   {
