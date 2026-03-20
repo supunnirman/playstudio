@@ -10,5 +10,17 @@
     "created_by": "Administrator",
     "created_at": "2026-03-20T23:39:45.571942",
     "note": ""
+  },
+  {
+    "code": "UDCF3VUR",
+    "disc_type": "flat",
+    "disc_value": 500.0,
+    "expires_on": "2026-03-22",
+    "max_uses": 5,
+    "uses": 0,
+    "active": true,
+    "created_by": "Administrator",
+    "created_at": "2026-03-20T23:41:34.878054",
+    "note": ""
   }
 ]
