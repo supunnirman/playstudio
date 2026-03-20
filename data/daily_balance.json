@@ -43,5 +43,14 @@
     "amount": 1000.0,
     "note": "Day started by Shanaka Sen",
     "user": "Shanaka Sen"
+  },
+  {
+    "id": "BAL-7FF197A6",
+    "date": "2026-03-21",
+    "ts": "2026-03-21T00:00:52.141388",
+    "type": "opening",
+    "amount": 0.0,
+    "note": "Day started by Shanaka Sen",
+    "user": "Shanaka Sen"
   }
 ]
