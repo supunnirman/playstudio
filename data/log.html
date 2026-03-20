@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PlayStudio Event Log</title>
+<style>
+  :root {
+    --bg:#0A0A18; --bg2:#10102A; --bg3:#18183A;
+    --card:#1E1E48; --card2:#242458;
+    --border:#3030A0; --pink:#FF2D9B; --purple:#9B30FF;
+    --blue:#2B7FFF; --teal:#00D4FF; --green:#00E5A0;
+    --yellow:#FFE040; --text:#F4F4FF; --text2:#9090CC; --text3:#5555AA;
+  }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--bg); color:var(--text); font-family:'Segoe UI',sans-serif; }
+
+  /* ── vivid header ── */
+  header {
+    background:var(--bg2);
+    border-bottom:4px solid var(--pink);
+    padding:24px 40px 20px;
+    display:flex; align-items:center; gap:20px;
+  }
+  header h1 { font-size:28px; font-weight:900; color:var(--pink); }
+  header .sub { color:var(--teal); font-size:14px; margin-top:4px; }
+  .badge-total {
+    background:var(--pink)22; color:var(--pink);
+    border:1px solid var(--pink)55; border-radius:20px;
+    padding:4px 14px; font-size:13px; font-weight:700; margin-left:auto;
+  }
+
+  /* ── filters bar ── */
+  .filters {
+    display:flex; gap:10px; flex-wrap:wrap;
+    padding:16px 40px; background:var(--bg2);
+    border-bottom:1px solid var(--border);
+  }
+  .filters input, .filters select {
+    background:var(--card); color:var(--text);
+    border:1px solid var(--border); border-radius:8px;
+    padding:8px 14px; font-size:13px; outline:none;
+  }
+  .filters input:focus, .filters select:focus { border-color:var(--pink); }
+  .filters input { flex:1; min-width:200px; }
+
+  /* ── table ── */
+  .wrap { padding:24px 40px; }
+  table { width:100%; border-collapse:collapse; }
+  thead th {
+    text-align:left; font-size:11px; font-weight:700;
+    color:var(--text3); text-transform:uppercase; letter-spacing:.08em;
+    padding:10px 14px; border-bottom:1px solid var(--border);
+    background:var(--bg3); position:sticky; top:0; z-index:2;
+  }
+  tbody tr { border-bottom:1px solid var(--bg3); transition:background .15s; }
+  tbody tr:hover { background:var(--card); }
+  tbody td { padding:9px 14px; font-size:13px; vertical-align:middle; }
+  .time { color:var(--text2); font-family:'Courier New',monospace; font-size:12px; white-space:nowrap; }
+  .user { color:var(--text2); white-space:nowrap; }
+  .detail { color:var(--text); }
+  .badge {
+    display:inline-block; border-radius:20px;
+    padding:2px 10px; font-size:11px; font-weight:700;
+    margin-left:6px; vertical-align:middle;
+  }
+  tr.date-sep td {
+    background:var(--bg2); color:var(--yellow);
+    font-weight:700; font-size:13px; padding:10px 14px;
+    border-top:2px solid var(--border); border-bottom:1px solid var(--border);
+  }
+
+  /* ── stat chips ── */
+  .stats { display:flex; gap:12px; flex-wrap:wrap; padding:16px 40px 0; }
+  .stat {
+    background:var(--card); border:1px solid var(--border);
+    border-radius:12px; padding:12px 20px; min-width:130px; text-align:center;
+  }
+  .stat .n { font-size:22px; font-weight:900; }
+  .stat .l { font-size:11px; color:var(--text2); margin-top:2px; }
+
+  /* ── bottom ── */
+  footer {
+    text-align:center; color:var(--text3); font-size:11px;
+    padding:24px; border-top:1px solid var(--border); margin-top:30px;
+  }
+  @media(max-width:700px) {
+    header, .filters, .wrap, .stats { padding-left:16px; padding-right:16px; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>🎮 PlayStudio Event Log</h1>
+    <div class="sub">Powered by PartyMantra &nbsp;·&nbsp; Auto-generated from log.xml</div>
+  </div>
+  <div class="badge-total">24 events</div>
+</header>
+
+<div class="stats">
+  <div class="stat"><div class="n" style="color:var(--green)">3</div><div class="l">Check-ins</div></div>
+  <div class="stat"><div class="n" style="color:var(--blue)">3</div><div class="l">Checkouts</div></div>
+  <div class="stat"><div class="n" style="color:var(--yellow)">2</div><div class="l">Coupons</div></div>
+  <div class="stat"><div class="n" style="color:var(--pink)">0</div><div class="l">Voids</div></div>
+  <div class="stat"><div class="n" style="color:var(--orange, #FF7B2D)">0</div><div class="l">Expenses</div></div>
+</div>
+
+<div class="filters">
+  <input type="search" id="q" placeholder="🔍  Search event, user, detail…" oninput="filterTable()">
+  <select id="typeFilter" onchange="filterTable()">
+    <option value="">All event types</option>
+    <option>checkin</option><option>checkout</option>
+    <option>shop_add</option><option>shop_paid</option><option>shop_remove</option>
+    <option>expense</option><option>coupon_create</option><option>coupon_redeem</option>
+    <option>ticket_void</option><option>day_start</option><option>day_stop</option>
+    <option>print</option><option>pin_change</option>
+  </select>
+</div>
+
+<div class="wrap">
+<table id="logTable">
+  <thead><tr><th>Time</th><th>Event</th><th>User</th><th>Detail</th></tr></thead>
+  <tbody>
+<tr class="date-sep"><td colspan="4">📅 2026-03-20</td></tr>
+<tr><td class="time">23:59:24</td><td>🎟️ <span class="badge" style="background:#00E5A022;color:#00E5A0;border:1px solid #00E5A055">checkin</span></td><td class="user">👤 Sandali</td><td class="detail">TKT-608422ED | Walk-in | standard | kids=1</td></tr>
+<tr><td class="time">23:45:32</td><td>🚪 <span class="badge" style="background:#2B7FFF22;color:#2B7FFF;border:1px solid #2B7FFF55">checkout</span></td><td class="user">👤 Sandali</td><td class="detail">TKT-F8C3D47D | Walk-in | 22m 3s | LKR 545</td></tr>
+<tr><td class="time">23:41:34</td><td>🎟️ <span class="badge" style="background:#FFE04022;color:#FFE040;border:1px solid #FFE04055">coupon_create</span></td><td class="user">👤 Administrator</td><td class="detail">UDCF3VUR | LKR 500 | 5× | expires 2026-03-22 | by Administrator</td></tr>
+<tr><td class="time">23:39:45</td><td>🎟️ <span class="badge" style="background:#FFE04022;color:#FFE040;border:1px solid #FFE04055">coupon_create</span></td><td class="user">👤 Administrator</td><td class="detail">4HHPCCKC | 5% | one-time | expires 2026-03-21 | by Administrator</td></tr>
+<tr><td class="time">23:38:00</td><td>🛒 <span class="badge" style="background:#FF7B2D22;color:#FF7B2D;border:1px solid #FF7B2D55">shop_add</span></td><td class="user">👤 Sandali</td><td class="detail">TKT-F8C3D47D | Coffee | LKR 200</td></tr>
+<tr><td class="time">23:37:53</td><td>🛒 <span class="badge" style="background:#FF7B2D22;color:#FF7B2D;border:1px solid #FF7B2D55">shop_add</span></td><td class="user">👤 Sandali</td><td class="detail">TKT-F8C3D47D | Juice Box | LKR 120</td></tr>
+<tr><td class="time">23:37:46</td><td>🛒 <span class="badge" style="background:#FF7B2D22;color:#FF7B2D;border:1px solid #FF7B2D55">shop_add</span></td><td class="user">👤 Sandali</td><td class="detail">TKT-F8C3D47D | Soft Drink | LKR 150</td></tr>
+<tr><td class="time">23:23:29</td><td>🎟️ <span class="badge" style="background:#00E5A022;color:#00E5A0;border:1px solid #00E5A055">checkin</span></td><td class="user">👤 Sandali</td><td class="detail">TKT-F8C3D47D | Walk-in | standard | kids=1</td></tr>
+<tr><td class="time">23:23:11</td><td>⚡ <span class="badge" style="background:#00D4FF22;color:#00D4FF;border:1px solid #00D4FF55">ui_action</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">Start Day dialog confirmed</td></tr>
+<tr><td class="time">23:23:11</td><td>🌅 <span class="badge" style="background:#00E5A022;color:#00E5A0;border:1px solid #00E5A055">day_start</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">Opening: LKR 1,000</td></tr>
+<tr><td class="time">23:21:18</td><td>⚡ <span class="badge" style="background:#00D4FF22;color:#00D4FF;border:1px solid #00D4FF55">ui_action</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">Stop Day dialog confirmed — EOD opened</td></tr>
+<tr><td class="time">23:21:18</td><td>🌇 <span class="badge" style="background:#FF7B2D22;color:#FF7B2D;border:1px solid #FF7B2D55">day_stop</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">Closing: LKR 2,340</td></tr>
+<tr><td class="time">23:20:40</td><td>🚪 <span class="badge" style="background:#2B7FFF22;color:#2B7FFF;border:1px solid #2B7FFF55">checkout</span></td><td class="user">👤 Sandali</td><td class="detail">TKT-A8EC88F7 | Walk-in | 0m 14s | LKR 75</td></tr>
+<tr><td class="time">23:20:25</td><td>🎟️ <span class="badge" style="background:#00E5A022;color:#00E5A0;border:1px solid #00E5A055">checkin</span></td><td class="user">👤 Sandali</td><td class="detail">TKT-A8EC88F7 | Walk-in | standard | kids=1</td></tr>
+<tr><td class="time">23:20:12</td><td>🚪 <span class="badge" style="background:#2B7FFF22;color:#2B7FFF;border:1px solid #2B7FFF55">checkout</span></td><td class="user">👤 Sandali</td><td class="detail">TKT-54154B08 | Walk-in | 4h 22m | LKR 655</td></tr>
+<tr><td class="time">23:18:41</td><td>💳 <span class="badge" style="background:#00E5A022;color:#00E5A0;border:1px solid #00E5A055">shop_paid</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">TKT-54154B08 | Juice Box | LKR 120</td></tr>
+<tr><td class="time">23:18:38</td><td>💳 <span class="badge" style="background:#00E5A022;color:#00E5A0;border:1px solid #00E5A055">shop_paid</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">TKT-54154B08 | Water Bottle | LKR 100</td></tr>
+<tr><td class="time">23:18:33</td><td>💳 <span class="badge" style="background:#00E5A022;color:#00E5A0;border:1px solid #00E5A055">shop_paid</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">TKT-54154B08 | Coffee | LKR 200</td></tr>
+<tr><td class="time">23:18:24</td><td>💳 <span class="badge" style="background:#00E5A022;color:#00E5A0;border:1px solid #00E5A055">shop_paid</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">TKT-54154B08 | Coffee | LKR 200</td></tr>
+<tr><td class="time">23:17:59</td><td>🛒 <span class="badge" style="background:#FF7B2D22;color:#FF7B2D;border:1px solid #FF7B2D55">shop_add</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">TKT-54154B08 | Water Bottle | LKR 100</td></tr>
+<tr><td class="time">23:17:56</td><td>🛒 <span class="badge" style="background:#FF7B2D22;color:#FF7B2D;border:1px solid #FF7B2D55">shop_add</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">TKT-54154B08 | Juice Box | LKR 120</td></tr>
+<tr><td class="time">23:17:55</td><td>🛒 <span class="badge" style="background:#FF7B2D22;color:#FF7B2D;border:1px solid #FF7B2D55">shop_add</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">TKT-54154B08 | Coffee | LKR 200</td></tr>
+<tr><td class="time">23:17:53</td><td>🛒 <span class="badge" style="background:#FF7B2D22;color:#FF7B2D;border:1px solid #FF7B2D55">shop_add</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">TKT-54154B08 | Coffee | LKR 200</td></tr>
+<tr><td class="time">23:17:38</td><td>🌅 <span class="badge" style="background:#00E5A022;color:#00E5A0;border:1px solid #00E5A055">day_start</span></td><td class="user">👤 Shanaka Sen</td><td class="detail">Opening: LKR 3,500</td></tr>
+
+  </tbody>
+</table>
+</div>
+
+<footer>PlayStudio POS · PartyMantra · log.html auto-generated — open log.xml for raw data</footer>
+
+<script>
+function filterTable() {
+  const q    = document.getElementById('q').value.toLowerCase();
+  const type = document.getElementById('typeFilter').value.toLowerCase();
+  const rows = document.querySelectorAll('#logTable tbody tr:not(.date-sep)');
+  rows.forEach(r => {
+    const text = r.textContent.toLowerCase();
+    r.style.display = ((!q || text.includes(q)) && (!type || text.includes(type))) ? '' : 'none';
+  });
+}
+</script>
+</body>
+</html>
