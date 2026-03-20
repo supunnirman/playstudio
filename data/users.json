@@ -36,5 +36,17 @@
     "perms": [
       "pos"
     ]
+  },
+  {
+    "id": "USR-EA66DCFA",
+    "name": "Taniya",
+    "username": "taniya",
+    "pin": "444000",
+    "role": "supervisor",
+    "perms": [
+      "pos",
+      "finance",
+      "history"
+    ]
   }
 ]
