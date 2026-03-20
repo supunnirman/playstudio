@@ -3,7 +3,7 @@
     "id": "u1",
     "name": "Administrator",
     "username": "admin",
-    "pin": "555000",
+    "pin": "1234",
     "role": "admin",
     "perms": [
       "pos",
@@ -11,19 +11,6 @@
       "history",
       "expenses",
       "loyalty"
-    ]
-  },
-  {
-    "id": "USR-5D6047C2",
-    "name": "Shanaka Senavirathne",
-    "username": "shanaka",
-    "pin": "555000",
-    "role": "cashier",
-    "perms": [
-      "pos",
-      "finance",
-      "history",
-      "expenses"
     ]
   },
   {
