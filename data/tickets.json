@@ -59,18 +59,5 @@
         "ts": "2026-03-21T00:16:29.345633"
       }
     ]
-  },
-  {
-    "id": "TKT-5296C1BA",
-    "name": "Walk-in",
-    "phone": "",
-    "type": "standard",
-    "kids": 1,
-    "checkin": "2026-03-21T00:16:52.548893",
-    "customer_id": "",
-    "shop_items": [],
-    "coupon_code": "4HHPCCKC",
-    "coupon_type": "percent",
-    "coupon_value": 5.0
   }
 ]
