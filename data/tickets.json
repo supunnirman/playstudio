@@ -17,6 +17,16 @@
         "qty": 1,
         "paid": false,
         "ts": "2026-03-21T00:16:15.740562"
+      },
+      {
+        "id": "SI-E52EC948",
+        "item_id": "SHP-003",
+        "name": "Coffee",
+        "price": 200,
+        "emoji": "☕",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-21T00:16:20.915237"
       }
     ]
   }
