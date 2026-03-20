@@ -26,4 +26,5 @@
   <event ts="2026-03-20T23:59:24.677681" type="checkin" user="Sandali" detail="TKT-608422ED | Walk-in | standard | kids=1" />
   <event ts="2026-03-20T23:59:27.255787" type="print" user="Sandali" detail="receipt | TKT-608422ED" />
   <event ts="2026-03-20T23:59:57.414661" type="checkout" user="Sandali" detail="TKT-608422ED | Walk-in | 0m 32s | LKR 75" />
+  <event ts="2026-03-21T00:00:52.144059" type="day_start" user="Shanaka Sen" detail="Opening: LKR 0" />
 </log>
