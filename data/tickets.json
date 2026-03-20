@@ -27,6 +27,36 @@
         "qty": 1,
         "paid": false,
         "ts": "2026-03-21T00:16:20.915237"
+      },
+      {
+        "id": "SI-D5E6AF67",
+        "item_id": "SHP-005",
+        "name": "Juice Box",
+        "price": 120,
+        "emoji": "🧃",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-21T00:16:24.343318"
+      },
+      {
+        "id": "SI-B90EC30B",
+        "item_id": "SHP-001",
+        "name": "Socks (Kids)",
+        "price": 250,
+        "emoji": "🧦",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-21T00:16:26.942710"
+      },
+      {
+        "id": "SI-D8D4E799",
+        "item_id": "SHP-002",
+        "name": "Soft Drink",
+        "price": 150,
+        "emoji": "🥤",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-21T00:16:29.345633"
       }
     ]
   }
