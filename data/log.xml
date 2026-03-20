@@ -29,4 +29,5 @@
   <event ts="2026-03-21T00:00:52.144059" type="day_start" user="Shanaka Sen" detail="Opening: LKR 0" />
   <event ts="2026-03-21T00:00:52.254628" type="ui_action" user="Shanaka Sen" detail="Start Day dialog confirmed" />
   <event ts="2026-03-21T00:01:49.241720" type="checkin" user="Sandali" detail="TKT-6193DC36 | Walk-in | standard | kids=1" />
+  <event ts="2026-03-21T00:01:52.924617" type="print" user="Sandali" detail="receipt | TKT-6193DC36" />
 </log>
