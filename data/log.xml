@@ -8,4 +8,5 @@
   <event ts="2026-03-20T23:18:24.670254" type="shop_paid" user="Shanaka Sen" detail="TKT-54154B08 | Coffee | LKR 200" />
   <event ts="2026-03-20T23:18:33.460388" type="shop_paid" user="Shanaka Sen" detail="TKT-54154B08 | Coffee | LKR 200" />
   <event ts="2026-03-20T23:18:38.095549" type="shop_paid" user="Shanaka Sen" detail="TKT-54154B08 | Water Bottle | LKR 100" />
+  <event ts="2026-03-20T23:18:41.692181" type="shop_paid" user="Shanaka Sen" detail="TKT-54154B08 | Juice Box | LKR 120" />
 </log>
