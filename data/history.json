@@ -69,5 +69,46 @@
     "tax_amt": 0.0,
     "total": 67.5,
     "items_total": 0
+  },
+  {
+    "id": "TKT-7823DFA0",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-20T20:38:33.201302",
+    "customer_id": "",
+    "shop_items": [
+      {
+        "id": "SI-4DCCD062",
+        "item_id": "SHP-003",
+        "name": "Coffee",
+        "price": 200,
+        "emoji": "☕",
+        "qty": 1,
+        "paid": true,
+        "ts": "2026-03-20T20:38:55.506878"
+      },
+      {
+        "id": "SI-08D16433",
+        "item_id": "SHP-001",
+        "name": "Socks (Kids)",
+        "price": 250,
+        "emoji": "🧦",
+        "qty": 1,
+        "paid": true,
+        "ts": "2026-03-20T20:38:56.043387"
+      }
+    ],
+    "checkout": "2026-03-20T21:51:12.618757",
+    "date": "2026-03-20",
+    "duration": "1h 12m",
+    "rate": 150,
+    "subtotal": 181.642391375,
+    "disc_pct": 0,
+    "disc_amt": 0.0,
+    "tax_amt": 0.0,
+    "total": 181.642391375,
+    "items_total": 0
   }
 ]
