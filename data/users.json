@@ -12,15 +12,5 @@
       "expenses",
       "loyalty"
     ]
-  },
-  {
-    "id": "USR-836EAA16",
-    "name": "Sandali Geethma",
-    "username": "sandali",
-    "pin": "1100",
-    "role": "cashier",
-    "perms": [
-      "pos"
-    ]
   }
 ]
