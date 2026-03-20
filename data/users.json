@@ -12,5 +12,18 @@
       "expenses",
       "loyalty"
     ]
+  },
+  {
+    "id": "USR-249E28D3",
+    "name": "Shanaka Senaviratne",
+    "username": "shanaka",
+    "pin": "5500",
+    "role": "cashier",
+    "perms": [
+      "pos",
+      "finance",
+      "history",
+      "expenses"
+    ]
   }
 ]
