@@ -181,5 +181,46 @@
     "tax_amt": 0.0,
     "total": 237.52144387500002,
     "items_total": 0
+  },
+  {
+    "id": "TKT-BE2D854D",
+    "name": "Yuvein",
+    "phone": "0775726873",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-20T20:40:44.246642",
+    "customer_id": "CUS-F5C08F78",
+    "shop_items": [
+      {
+        "id": "SI-B5344A03",
+        "item_id": "SHP-001",
+        "name": "Socks (Kids)",
+        "price": 250,
+        "emoji": "🧦",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-20T21:24:04.410763"
+      },
+      {
+        "id": "SI-9E0B1009",
+        "item_id": "SHP-003",
+        "name": "Coffee",
+        "price": 200,
+        "emoji": "☕",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-20T22:26:25.195175"
+      }
+    ],
+    "checkout": "2026-03-20T22:26:34.186299",
+    "date": "2026-03-20",
+    "duration": "1h 45m",
+    "rate": 150,
+    "subtotal": 264.58081608333333,
+    "disc_pct": 10,
+    "disc_amt": 26.45808160833333,
+    "tax_amt": 0.0,
+    "total": 688.122734475,
+    "items_total": 450
   }
 ]
