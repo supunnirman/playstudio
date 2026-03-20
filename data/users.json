@@ -12,5 +12,18 @@
       "expenses",
       "loyalty"
     ]
+  },
+  {
+    "id": "USR-5D6047C2",
+    "name": "Shanaka Senavirathne",
+    "username": "shanaka",
+    "pin": "5500",
+    "role": "cashier",
+    "perms": [
+      "pos",
+      "finance",
+      "history",
+      "expenses"
+    ]
   }
 ]
