@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "TKT-F8C3D47D",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-20T23:23:29.219075",
+    "customer_id": "",
+    "shop_items": []
+  }
+]
