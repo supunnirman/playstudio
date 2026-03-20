@@ -415,5 +415,28 @@
     "tax_amt": 0.0,
     "total": 75.0,
     "items_total": 0
+  },
+  {
+    "id": "TKT-5296C1BA",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-21T00:16:52.548893",
+    "customer_id": "",
+    "shop_items": [],
+    "coupon_code": "4HHPCCKC",
+    "coupon_type": "percent",
+    "coupon_value": 5.0,
+    "checkout": "2026-03-21T00:17:04.219049",
+    "date": "2026-03-21",
+    "duration": "0m 11s",
+    "rate": 150,
+    "subtotal": 75.0,
+    "disc_pct": 0,
+    "disc_amt": 0.0,
+    "tax_amt": 0.0,
+    "total": 75.0,
+    "items_total": 0
   }
 ]
