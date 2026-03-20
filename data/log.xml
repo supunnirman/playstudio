@@ -11,4 +11,5 @@
   <event ts="2026-03-20T23:18:41.692181" type="shop_paid" user="Shanaka Sen" detail="TKT-54154B08 | Juice Box | LKR 120" />
   <event ts="2026-03-20T23:20:12.934947" type="checkout" user="Sandali" detail="TKT-54154B08 | Walk-in | 4h 22m | LKR 655" />
   <event ts="2026-03-20T23:20:25.943238" type="checkin" user="Sandali" detail="TKT-A8EC88F7 | Walk-in | standard | kids=1" />
+  <event ts="2026-03-20T23:20:40.120163" type="checkout" user="Sandali" detail="TKT-A8EC88F7 | Walk-in | 0m 14s | LKR 75" />
 </log>
