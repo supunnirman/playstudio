@@ -7,6 +7,17 @@
     "kids": 1,
     "checkin": "2026-03-20T18:57:55.653601",
     "customer_id": "",
-    "shop_items": []
+    "shop_items": [
+      {
+        "id": "SI-B6DF5439",
+        "item_id": "SHP-003",
+        "name": "Coffee",
+        "price": 200,
+        "emoji": "☕",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-20T23:17:53.868331"
+      }
+    ]
   }
 ]
