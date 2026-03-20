@@ -34,4 +34,5 @@
   <event ts="2026-03-21T00:16:20.916167" type="shop_add" user="Shanaka Sen" detail="TKT-6193DC36 | Coffee | LKR 200" />
   <event ts="2026-03-21T00:16:24.343641" type="shop_add" user="Shanaka Sen" detail="TKT-6193DC36 | Juice Box | LKR 120" />
   <event ts="2026-03-21T00:16:26.943065" type="shop_add" user="Shanaka Sen" detail="TKT-6193DC36 | Socks (Kids) | LKR 250" />
+  <event ts="2026-03-21T00:16:29.346013" type="shop_add" user="Shanaka Sen" detail="TKT-6193DC36 | Soft Drink | LKR 150" />
 </log>
