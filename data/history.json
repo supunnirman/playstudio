@@ -395,5 +395,25 @@
     "tax_amt": 0.0,
     "total": 545.0,
     "items_total": 470
+  },
+  {
+    "id": "TKT-608422ED",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-20T23:59:24.676210",
+    "customer_id": "",
+    "shop_items": [],
+    "checkout": "2026-03-20T23:59:57.411108",
+    "date": "2026-03-20",
+    "duration": "0m 32s",
+    "rate": 150,
+    "subtotal": 75.0,
+    "disc_pct": 0,
+    "disc_amt": 0.0,
+    "tax_amt": 0.0,
+    "total": 75.0,
+    "items_total": 0
   }
 ]
