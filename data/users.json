@@ -25,5 +25,16 @@
       "history",
       "expenses"
     ]
+  },
+  {
+    "id": "USR-1C09C0F4",
+    "name": "Taniya Perera",
+    "username": "taniya",
+    "pin": "4400",
+    "role": "cashier",
+    "perms": [
+      "finance",
+      "expenses"
+    ]
   }
 ]
