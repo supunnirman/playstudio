@@ -6,5 +6,13 @@
     "category": "utilities",
     "desc": "lunch",
     "amount": 450.0
+  },
+  {
+    "id": "EXP-5A940E5E",
+    "date": "2026-03-21",
+    "ts": "2026-03-21T16:43:40.192626",
+    "category": "supplies",
+    "desc": "Ballons Packet",
+    "amount": 600.0
   }
 ]
