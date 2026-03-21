@@ -1,21 +1,21 @@
 {
   "date": "2026-03-21",
   "started": true,
-  "stopped": false,
+  "stopped": true,
   "opening_amount": 1000.0,
-  "closing_amount": null,
+  "closing_amount": 50000.0,
   "started_by": "Administrator",
-  "stopped_by": "",
+  "stopped_by": "Administrator",
   "start_time": "2026-03-21T17:08:23.020598",
-  "stop_time": "",
+  "stop_time": "2026-03-21T17:08:53.143111",
   "sessions": [
     {
       "started_by": "Administrator",
       "start_time": "2026-03-21T17:08:23.020598",
-      "stop_time": "",
-      "stopped_by": "",
+      "stop_time": "2026-03-21T17:08:53.143111",
+      "stopped_by": "Administrator",
       "opening_amount": 1000.0,
-      "closing_amount": null
+      "closing_amount": 50000.0
     }
   ]
 }
