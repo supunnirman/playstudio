@@ -200,4 +200,5 @@
   <event ts="2026-03-21T16:44:51.987346" type="shop_paid" user="Taniya" detail="TKT-3C96483E | Soft Drink | LKR 150" />
   <event ts="2026-03-21T16:44:53.817806" type="print" user="Taniya" detail="receipt | slip" />
   <event ts="2026-03-21T16:45:26.105724" type="checkin" user="Taniya" detail="TKT-5736DA83 | Walk-in | standard | kids=1" />
+  <event ts="2026-03-21T16:46:38.686900" type="checkout" user="Sandali" detail="TKT-3C96483E | Walk-in | 5h 9m | LKR 1,533" />
 </log>
