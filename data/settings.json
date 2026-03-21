@@ -44,5 +44,50 @@
   "sms_on_coupon_create": true,
   "sms_coupon_create_num": "0775726873",
   "sms_on_coupon_use": true,
-  "sms_coupon_use_num": "0775726873"
+  "sms_coupon_use_num": "0775726873",
+  "print_consent": false,
+  "custom_msg_header": "",
+  "custom_msg_footer": "Halloween Party 8th of April. contact  Manager for registration",
+  "custom_msg_header_on": false,
+  "custom_msg_footer_on": true,
+  "manager_name": "Chandrasiri",
+  "manager_phone": "0777123456",
+  "manager_on_receipt": true,
+  "day_schedule": {
+    "Mon": {
+      "enabled": true,
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "Tue": {
+      "enabled": true,
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "Wed": {
+      "enabled": true,
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "Thu": {
+      "enabled": true,
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "Fri": {
+      "enabled": true,
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "Sat": {
+      "enabled": true,
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "Sun": {
+      "enabled": true,
+      "open": "08:00",
+      "close": "22:00"
+    }
+  }
 }
