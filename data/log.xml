@@ -176,4 +176,5 @@
   <event ts="2026-03-21T16:16:54.954600" type="eod_print" user="Shanaka Senaviratne" detail="EOD thermal | 2026-03-21" />
   <event ts="2026-03-21T16:30:48.693700" type="day_start" user="Shanaka Senaviratne" detail="Opening: LKR 2,500" />
   <event ts="2026-03-21T16:30:48.788961" type="ui_action" user="Shanaka Senaviratne" detail="Start Day dialog confirmed" />
+  <event ts="2026-03-21T16:31:35.058060" type="checkin" user="Sandali" detail="TKT-4343EE6E | Yuvein | standard | kids=1" />
 </log>
