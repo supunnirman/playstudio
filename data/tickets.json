@@ -1,16 +1,5 @@
 [
   {
-    "id": "TKT-C2124D2D",
-    "name": "Walk-in",
-    "phone": "",
-    "type": "standard",
-    "kids": 1,
-    "checkin": "2026-03-21T14:10:35.228030",
-    "customer_id": "",
-    "shop_items": [],
-    "consent_ts": "2026-03-21 14:10"
-  },
-  {
     "id": "TKT-E2382D56",
     "name": "Walk-in",
     "phone": "",
