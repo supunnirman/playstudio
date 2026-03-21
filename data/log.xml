@@ -55,4 +55,5 @@
   <event ts="2026-03-21T10:41:20.211553" type="print" user="Sandali" detail="receipt | TKT-CF4ECB32" />
   <event ts="2026-03-21T10:54:24.908321" type="print" user="Administrator" detail="receipt | TKT-CF4ECB32" />
   <event ts="2026-03-21T10:54:53.581819" type="print" user="Administrator" detail="receipt | TKT-7B554CA0" />
+  <event ts="2026-03-21T10:55:45.330469" type="checkin" user="Administrator" detail="TKT-6B237D19 | Walk-in | standard | kids=1" />
 </log>
