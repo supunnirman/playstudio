@@ -64,4 +64,5 @@
   <event ts="2026-03-21T11:33:53.137411" type="coupon_disable" user="Shanaka Sen" detail="UDCF3VUR | disabled by Shanaka Sen" />
   <event ts="2026-03-21T11:34:27.181805" type="coupon_create" user="Shanaka Sen" detail="GSZ25DNZ | 25% | one-time | expires 2026-03-22 | by Shanaka Sen" />
   <event ts="2026-03-21T11:35:23.827070" type="checkout" user="Shanaka Sen" detail="TKT-7B554CA0 | Walk-in | 1h 5m | LKR 164" />
+  <event ts="2026-03-21T11:35:34.102120" type="print" user="Shanaka Sen" detail="receipt | TKT-7B554CA0" />
 </log>
