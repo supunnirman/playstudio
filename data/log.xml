@@ -53,4 +53,5 @@
   <event ts="2026-03-21T10:40:23.410377" type="checkin" user="Sandali" detail="TKT-CF4ECB32 | Yuvein | standard | kids=1" />
   <event ts="2026-03-21T10:40:27.625958" type="print" user="Sandali" detail="receipt | TKT-CF4ECB32" />
   <event ts="2026-03-21T10:41:20.211553" type="print" user="Sandali" detail="receipt | TKT-CF4ECB32" />
+  <event ts="2026-03-21T10:54:24.908321" type="print" user="Administrator" detail="receipt | TKT-CF4ECB32" />
 </log>
