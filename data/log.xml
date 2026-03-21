@@ -133,4 +133,5 @@
   <event ts="2026-03-21T14:43:56.795839" type="ui_action" user="Shanaka Senaviratne" detail="Start Day dialog confirmed" />
   <event ts="2026-03-21T14:44:08.762592" type="checkout" user="Shanaka Senaviratne" detail="TKT-714A689F | Walk-in | 2h 22m | LKR 1,066" />
   <event ts="2026-03-21T14:44:10.907308" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-714A689F" />
+  <event ts="2026-03-21T14:49:06.656350" type="eod_print" user="Shanaka Senaviratne" detail="EOD thermal | 2026-03-21" />
 </log>
