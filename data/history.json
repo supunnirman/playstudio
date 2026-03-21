@@ -607,5 +607,29 @@
     "tax_amt": 0.0,
     "total": 162.35072528125,
     "items_total": 0
+  },
+  {
+    "id": "TKT-9AE9D23D",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-21T11:41:21.005660",
+    "customer_id": "",
+    "shop_items": [],
+    "coupon_code": "GSZ25DNZ",
+    "coupon_type": "percent",
+    "coupon_value": 25.0,
+    "checkout": "2026-03-21T13:54:48.293186",
+    "date": "2026-03-21",
+    "duration": "2h 13m",
+    "rate": 450.0,
+    "subtotal": 1000.9109407499999,
+    "disc_pct": 0,
+    "disc_amt": 0.0,
+    "coupon_da": 250.22773518749997,
+    "tax_amt": 0.0,
+    "total": 750.6832055624999,
+    "items_total": 0
   }
 ]
