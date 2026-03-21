@@ -120,4 +120,5 @@
   <event ts="2026-03-21T14:19:22.549676" type="checkin" user="Administrator" detail="TKT-628F601E | Yuvein | standard | kids=1" />
   <event ts="2026-03-21T14:19:24.804415" type="print" user="Administrator" detail="receipt | TKT-628F601E" />
   <event ts="2026-03-21T14:26:51.797316" type="checkout" user="Shanaka Senaviratne" detail="TKT-88ED2887 | Walk-in | 2h 23m | LKR 1,079" />
+  <event ts="2026-03-21T14:26:55.290071" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-88ED2887" />
 </log>
