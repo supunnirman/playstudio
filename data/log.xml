@@ -122,4 +122,5 @@
   <event ts="2026-03-21T14:26:51.797316" type="checkout" user="Shanaka Senaviratne" detail="TKT-88ED2887 | Walk-in | 2h 23m | LKR 1,079" />
   <event ts="2026-03-21T14:26:55.290071" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-88ED2887" />
   <event ts="2026-03-21T14:27:23.838566" type="checkout" user="Shanaka Senaviratne" detail="TKT-628F601E | Yuvein | 8m 1s | LKR 405" />
+  <event ts="2026-03-21T14:27:25.952529" type="sms_receipt" user="Shanaka Senaviratne" detail="SMS receipt sent to 0775726873" />
 </log>
