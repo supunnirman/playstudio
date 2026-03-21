@@ -205,5 +205,14 @@
     "amount": 32500.0,
     "note": "Day stopped by Taniya",
     "user": "Taniya"
+  },
+  {
+    "id": "BAL-201C0934",
+    "date": "2026-03-21",
+    "ts": "2026-03-21T17:08:23.021810",
+    "type": "opening",
+    "amount": 1000.0,
+    "note": "Day started by Administrator",
+    "user": "Administrator"
   }
 ]
