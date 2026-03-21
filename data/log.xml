@@ -202,4 +202,5 @@
   <event ts="2026-03-21T16:45:26.105724" type="checkin" user="Taniya" detail="TKT-5736DA83 | Walk-in | standard | kids=1" />
   <event ts="2026-03-21T16:46:38.686900" type="checkout" user="Sandali" detail="TKT-3C96483E | Walk-in | 5h 9m | LKR 1,533" />
   <event ts="2026-03-21T16:46:41.576400" type="print" user="Sandali" detail="receipt | TKT-3C96483E" />
+  <event ts="2026-03-21T16:46:51.629149" type="checkout" user="Sandali" detail="TKT-5736DA83 | Walk-in | 3h 1m | LKR 1,360" />
 </log>
