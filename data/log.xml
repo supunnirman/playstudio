@@ -89,4 +89,5 @@
   <event ts="2026-03-21T12:02:34.420918" type="ui_action" user="Administrator" detail="Start Day dialog confirmed" />
   <event ts="2026-03-21T12:02:51.813789" type="checkin" user="Administrator" detail="TKT-88ED2887 | Walk-in | standard | kids=1" />
   <event ts="2026-03-21T12:02:55.110987" type="print" user="Administrator" detail="receipt | TKT-88ED2887" />
+  <event ts="2026-03-21T12:03:28.234338" type="coupon_create" user="Administrator" detail="G6G9E1K8 | 25% | one-time | expires 2026-03-26 | by Administrator" />
 </log>
