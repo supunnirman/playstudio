@@ -197,4 +197,5 @@
   <event ts="2026-03-21T16:43:40.192626" type="expense" user="Taniya" detail="supplies | Ballons Packet | LKR 600" />
   <event ts="2026-03-21T16:44:03.677070" type="expense" user="Taniya" detail="maintenance | Lunch | LKR 1,000" />
   <event ts="2026-03-21T16:44:49.528402" type="shop_add" user="Taniya" detail="TKT-3C96483E | Soft Drink | LKR 150" />
+  <event ts="2026-03-21T16:44:51.987346" type="shop_paid" user="Taniya" detail="TKT-3C96483E | Soft Drink | LKR 150" />
 </log>
