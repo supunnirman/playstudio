@@ -61,4 +61,5 @@
   <event ts="2026-03-21T11:11:31.687492" type="checkin" user="Sandali" detail="TKT-B24518F9 | Walk-in | standard | kids=1" />
   <event ts="2026-03-21T11:11:34.541953" type="print" user="Sandali" detail="receipt | TKT-B24518F9" />
   <event ts="2026-03-21T11:33:51.088782" type="coupon_disable" user="Shanaka Sen" detail="1Z4S3NNI | disabled by Shanaka Sen" />
+  <event ts="2026-03-21T11:33:53.137411" type="coupon_disable" user="Shanaka Sen" detail="UDCF3VUR | disabled by Shanaka Sen" />
 </log>
