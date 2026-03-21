@@ -50,5 +50,18 @@
       "expenses",
       "loyalty"
     ]
+  },
+  {
+    "id": "USR-B51FE348",
+    "name": "Chandrasiri",
+    "username": "chandarasiri",
+    "pin": "000000",
+    "role": "supervisor",
+    "perms": [
+      "pos",
+      "history",
+      "expenses",
+      "loyalty"
+    ]
   }
 ]
