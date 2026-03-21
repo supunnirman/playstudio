@@ -213,4 +213,5 @@
   <event ts="2026-03-21T16:53:04.486697" type="checkin" user="Shanaka Senaviratne" detail="TKT-743D4B44 | Walk-in | standard | kids=1" />
   <event ts="2026-03-21T16:53:09.496049" type="shop_add" user="Shanaka Senaviratne" detail="TKT-99CFF606 | Coffee | LKR 200" />
   <event ts="2026-03-21T16:53:10.959326" type="shop_add" user="Shanaka Senaviratne" detail="TKT-99CFF606 | Water Bottle | LKR 100" />
+  <event ts="2026-03-21T16:53:33.487975" type="shop_add" user="Shanaka Senaviratne" detail="TKT-743D4B44 | Coffee | LKR 200" />
 </log>
