@@ -238,4 +238,5 @@
   <event ts="2026-03-21T16:58:45.956553" type="eod_print" user="Taniya" detail="EOD thermal | 2026-03-21" />
   <event ts="2026-03-21T17:02:51.795632" type="eod_print" user="Shanaka Senaviratne" detail="EOD thermal | 2026-03-21" />
   <event ts="2026-03-21T17:08:23.023722" type="day_start" user="Administrator" detail="Opening: LKR 1,000" />
+  <event ts="2026-03-21T17:08:23.081146" type="ui_action" user="Administrator" detail="Start Day dialog confirmed" />
 </log>
