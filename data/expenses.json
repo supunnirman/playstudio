@@ -14,5 +14,13 @@
     "category": "supplies",
     "desc": "Ballons Packet",
     "amount": 600.0
+  },
+  {
+    "id": "EXP-EF2A62DD",
+    "date": "2026-03-21",
+    "ts": "2026-03-21T16:44:03.677070",
+    "category": "maintenance",
+    "desc": "Lunch",
+    "amount": 1000.0
   }
 ]
