@@ -1,12 +1,21 @@
 {
   "date": "2026-03-21",
   "started": true,
-  "stopped": true,
-  "opening_amount": 4500.0,
-  "closing_amount": 32500.0,
-  "started_by": "Shanaka Senaviratne",
-  "stopped_by": "Taniya",
-  "start_time": "2026-03-21T16:52:57.504714",
-  "stop_time": "2026-03-21T16:58:44.332084",
-  "sessions": []
+  "stopped": false,
+  "opening_amount": 1000.0,
+  "closing_amount": null,
+  "started_by": "Administrator",
+  "stopped_by": "",
+  "start_time": "2026-03-21T17:08:23.020598",
+  "stop_time": "",
+  "sessions": [
+    {
+      "started_by": "Administrator",
+      "start_time": "2026-03-21T17:08:23.020598",
+      "stop_time": "",
+      "stopped_by": "",
+      "opening_amount": 1000.0,
+      "closing_amount": null
+    }
+  ]
 }
