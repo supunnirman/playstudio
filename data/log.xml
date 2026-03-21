@@ -216,4 +216,5 @@
   <event ts="2026-03-21T16:53:33.487975" type="shop_add" user="Shanaka Senaviratne" detail="TKT-743D4B44 | Coffee | LKR 200" />
   <event ts="2026-03-21T16:53:34.227953" type="shop_add" user="Shanaka Senaviratne" detail="TKT-743D4B44 | Socks (Kids) | LKR 250" />
   <event ts="2026-03-21T16:53:35.526875" type="shop_add" user="Shanaka Senaviratne" detail="TKT-743D4B44 | Juice Box | LKR 120" />
+  <event ts="2026-03-21T16:53:38.668985" type="shop_add" user="Shanaka Senaviratne" detail="TKT-51AEF9D8 | Soft Drink | LKR 150" />
 </log>
