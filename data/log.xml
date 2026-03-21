@@ -160,4 +160,5 @@
   <event ts="2026-03-21T15:44:30.310108" type="sms_receipt" user="Shanaka Senaviratne" detail="SMS receipt sent to 0775726873" />
   <event ts="2026-03-21T15:44:31.574944" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-07E8265A" />
   <event ts="2026-03-21T15:53:09.157926" type="coupon_disable" user="Shanaka Senaviratne" detail="VF9HZ3X2 | disabled by Shanaka Senaviratne" />
+  <event ts="2026-03-21T15:59:10.294607" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-07E8265A" />
 </log>
