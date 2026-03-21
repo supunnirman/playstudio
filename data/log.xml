@@ -157,4 +157,5 @@
   <event ts="2026-03-21T15:43:50.469576" type="checkin" user="Shanaka Senaviratne" detail="TKT-67EB78BC | Walk-in | standard | kids=1" />
   <event ts="2026-03-21T15:43:52.592025" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-67EB78BC" />
   <event ts="2026-03-21T15:44:27.189436" type="checkin" user="Shanaka Senaviratne" detail="TKT-07E8265A | Yuvein | happy_hour | kids=1" />
+  <event ts="2026-03-21T15:44:30.310108" type="sms_receipt" user="Shanaka Senaviratne" detail="SMS receipt sent to 0775726873" />
 </log>
