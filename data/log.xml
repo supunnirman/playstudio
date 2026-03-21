@@ -69,4 +69,5 @@
   <event ts="2026-03-21T11:36:35.245159" type="ui_action" user="Shanaka Sen" detail="Stop Day dialog confirmed — EOD opened" />
   <event ts="2026-03-21T11:36:38.952462" type="eod_print" user="Shanaka Sen" detail="EOD thermal | 2026-03-21" />
   <event ts="2026-03-21T11:41:02.065581" type="day_start" user="Shanaka Sen" detail="Opening: LKR 2,500" />
+  <event ts="2026-03-21T11:41:02.138982" type="ui_action" user="Shanaka Sen" detail="Start Day dialog confirmed" />
 </log>
