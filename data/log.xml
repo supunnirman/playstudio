@@ -73,4 +73,5 @@
   <event ts="2026-03-21T11:41:21.006663" type="checkin" user="Shanaka Sen" detail="TKT-9AE9D23D | Walk-in | standard | kids=1" />
   <event ts="2026-03-21T11:41:21.009660" type="coupon_redeem" user="Shanaka Sen" detail="GSZ25DNZ | use #1" />
   <event ts="2026-03-21T11:41:42.191415" type="checkout" user="Shanaka Sen" detail="TKT-B24518F9 | Walk-in | 30m 10s | LKR 75" />
+  <event ts="2026-03-21T11:41:44.580773" type="print" user="Shanaka Sen" detail="receipt | TKT-B24518F9" />
 </log>
