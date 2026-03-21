@@ -83,4 +83,5 @@
   <event ts="2026-03-21T11:51:53.495528" type="checkout" user="Administrator" detail="TKT-CF4ECB32 | Yuvein | 1h 11m | LKR 160" />
   <event ts="2026-03-21T11:51:55.165577" type="print" user="Administrator" detail="receipt | TKT-CF4ECB32" />
   <event ts="2026-03-21T12:01:50.485588" type="day_stop" user="Shanaka Sen" detail="Closing: LKR 7,000" />
+  <event ts="2026-03-21T12:01:50.675358" type="ui_action" user="Shanaka Sen" detail="Stop Day dialog confirmed — EOD opened" />
 </log>
