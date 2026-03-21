@@ -138,4 +138,5 @@
   <event ts="2026-03-21T14:54:37.793589" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-A41B4A06" />
   <event ts="2026-03-21T14:55:02.065830" type="sms_receipt" user="Shanaka Senaviratne" detail="SMS receipt sent to 0775726873" />
   <event ts="2026-03-21T15:07:32.114915" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-A4F295FB" />
+  <event ts="2026-03-21T15:07:41.897181" type="checkin" user="Shanaka Senaviratne" detail="TKT-88AD4676 | Walk-in | standard | kids=1" />
 </log>
