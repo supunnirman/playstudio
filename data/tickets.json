@@ -33,5 +33,15 @@
     "customer_id": "",
     "shop_items": [],
     "consent_ts": "2026-03-21 12:02"
+  },
+  {
+    "id": "TKT-714A689F",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-21T12:22:00.748327",
+    "customer_id": "",
+    "shop_items": []
   }
 ]
