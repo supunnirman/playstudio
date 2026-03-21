@@ -240,4 +240,5 @@
   <event ts="2026-03-21T17:08:23.023722" type="day_start" user="Administrator" detail="Opening: LKR 1,000" />
   <event ts="2026-03-21T17:08:23.081146" type="ui_action" user="Administrator" detail="Start Day dialog confirmed" />
   <event ts="2026-03-21T17:08:26.820160" type="checkin" user="Administrator" detail="TKT-8E92C934 | Walk-in | standard | kids=1" />
+  <event ts="2026-03-21T17:08:34.473589" type="checkout" user="Administrator" detail="TKT-8E92C934 | Walk-in | 0m 7s | LKR 450" />
 </log>
