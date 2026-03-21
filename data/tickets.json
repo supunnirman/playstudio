@@ -35,7 +35,7 @@
         "price": 120,
         "emoji": "🧃",
         "qty": 1,
-        "paid": false,
+        "paid": true,
         "ts": "2026-03-21T16:53:40.022966"
       },
       {
@@ -45,7 +45,7 @@
         "price": 120,
         "emoji": "🧃",
         "qty": 1,
-        "paid": false,
+        "paid": true,
         "ts": "2026-03-21T16:53:40.618821"
       },
       {
