@@ -656,5 +656,30 @@
     "tax_amt": 0.0,
     "total": 202.5,
     "items_total": 0
+  },
+  {
+    "id": "TKT-88ED2887",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-21T12:02:51.813789",
+    "customer_id": "",
+    "shop_items": [],
+    "consent_ts": "2026-03-21 12:02",
+    "checkout": "2026-03-21T14:26:51.794313",
+    "date": "2026-03-21",
+    "duration": "2h 23m",
+    "rate": 450.0,
+    "subtotal": 1079.9975655,
+    "disc_pct": 0,
+    "disc_amt": 0.0,
+    "coupon_code": "",
+    "coupon_type": "",
+    "coupon_value": 0,
+    "coupon_da": 0.0,
+    "tax_amt": 0.0,
+    "total": 1079.9975655,
+    "items_total": 0
   }
 ]
