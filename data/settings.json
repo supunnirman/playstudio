@@ -1,0 +1,37 @@
+{
+  "arena_name": "PlayStudio by PartyMantra",
+  "address": "Colombo, Sri Lanka",
+  "phone": "+94 11 234 5678",
+  "email": "hello@partymantra.lk",
+  "rates": {
+    "standard": 150,
+    "vip": 250,
+    "party": 400
+  },
+  "min_minutes": 30,
+  "receipt_header": "Thank you for visiting PlayStudio!",
+  "receipt_footer": "See you again soon!  partymantra.lk",
+  "tax_percent": 0.0,
+  "github": {
+    "token": "",
+    "owner": "",
+    "repo": ""
+  },
+  "thermal_width": 35,
+  "receipt_printer": "EPSON TM-T(203dpi) Receipt6",
+  "receipt_paper_mm": 80,
+  "receipt_dpi": 203,
+  "receipt_width_px": 710,
+  "receipt_width_unit": "inches",
+  "close_time": "22:00",
+  "arena_rules": [
+    "Children must be supervised by a parent or guardian at all times.",
+    "Socks are mandatory for all players — available at the front desk.",
+    "No food or beverages inside the play area.",
+    "Children with injuries or health conditions must consult staff before playing.",
+    "PlayStudio is not responsible for lost or stolen belongings.",
+    "Rough play, climbing on safety nets, or aggressive behaviour is not permitted.",
+    "Staff decisions regarding safety rules are final.",
+    "By proceeding, you agree to the PlayStudio Terms & Conditions."
+  ]
+}
