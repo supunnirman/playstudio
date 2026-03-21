@@ -81,4 +81,5 @@
   <event ts="2026-03-21T11:48:49.319741" type="ui_action" user="Shanaka Sen" detail="Start Day dialog confirmed" />
   <event ts="2026-03-21T11:51:26.413982" type="coupon_create" user="Administrator" detail="VF9HZ3X2 | LKR 300 | one-time | expires 2026-03-22 | by Administrator" />
   <event ts="2026-03-21T11:51:53.495528" type="checkout" user="Administrator" detail="TKT-CF4ECB32 | Yuvein | 1h 11m | LKR 160" />
+  <event ts="2026-03-21T11:51:55.165577" type="print" user="Administrator" detail="receipt | TKT-CF4ECB32" />
 </log>
