@@ -102,4 +102,5 @@
   <event ts="2026-03-21T13:36:08.022780" type="print" user="Shanaka Sen" detail="receipt | VF9HZ3X2" />
   <event ts="2026-03-21T13:37:27.767920" type="day_start" user="Shanaka Sen" detail="Opening: LKR 3,500" />
   <event ts="2026-03-21T13:37:27.850251" type="ui_action" user="Shanaka Sen" detail="Start Day dialog confirmed" />
+  <event ts="2026-03-21T13:37:33.019319" type="print" user="Shanaka Sen" detail="receipt | TKT-714A689F" />
 </log>
