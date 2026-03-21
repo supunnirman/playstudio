@@ -115,5 +115,14 @@
     "amount": 7000.0,
     "note": "Day stopped by Shanaka Sen",
     "user": "Shanaka Sen"
+  },
+  {
+    "id": "BAL-604B3C6D",
+    "date": "2026-03-21",
+    "ts": "2026-03-21T12:02:34.350848",
+    "type": "opening",
+    "amount": 3500.0,
+    "note": "Day started by Administrator",
+    "user": "Administrator"
   }
 ]
