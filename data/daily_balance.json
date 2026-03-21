@@ -142,5 +142,14 @@
     "amount": 3500.0,
     "note": "Day started by Shanaka Sen",
     "user": "Shanaka Sen"
+  },
+  {
+    "id": "BAL-612B9842",
+    "date": "2026-03-21",
+    "ts": "2026-03-21T14:33:13.136539",
+    "type": "closing",
+    "amount": 8000.0,
+    "note": "Day stopped by Shanaka Senaviratne",
+    "user": "Shanaka Senaviratne"
   }
 ]
