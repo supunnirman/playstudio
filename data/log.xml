@@ -181,4 +181,5 @@
   <event ts="2026-03-21T16:32:06.162792" type="sms_receipt" user="Sandali" detail="SMS sent to 0775726873" />
   <event ts="2026-03-21T16:32:53.347565" type="customer_add" user="Administrator" detail="Supun Nirman | 0775726873" />
   <event ts="2026-03-21T16:35:08.857141" type="shop_add" user="Administrator" detail="TKT-4343EE6E | Soft Drink | LKR 150" />
+  <event ts="2026-03-21T16:35:14.196825" type="shop_add" user="Administrator" detail="TKT-4343EE6E | Water Bottle | LKR 100" />
 </log>
