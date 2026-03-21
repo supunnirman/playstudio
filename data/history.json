@@ -705,5 +705,29 @@
     "tax_amt": 0.0,
     "total": 405.0,
     "items_total": 0
+  },
+  {
+    "id": "TKT-714A689F",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-21T12:22:00.748327",
+    "customer_id": "",
+    "shop_items": [],
+    "checkout": "2026-03-21T14:44:08.762592",
+    "date": "2026-03-21",
+    "duration": "2h 22m",
+    "rate": 450.0,
+    "subtotal": 1066.001783125,
+    "disc_pct": 0,
+    "disc_amt": 0.0,
+    "coupon_code": "",
+    "coupon_type": "",
+    "coupon_value": 0,
+    "coupon_da": 0.0,
+    "tax_amt": 0.0,
+    "total": 1066.001783125,
+    "items_total": 0
   }
 ]
