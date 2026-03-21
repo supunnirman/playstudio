@@ -179,4 +179,5 @@
   <event ts="2026-03-21T16:31:35.058060" type="checkin" user="Sandali" detail="TKT-4343EE6E | Yuvein | standard | kids=1" />
   <event ts="2026-03-21T16:31:36.867236" type="print" user="Sandali" detail="receipt | TKT-4343EE6E" />
   <event ts="2026-03-21T16:32:06.162792" type="sms_receipt" user="Sandali" detail="SMS sent to 0775726873" />
+  <event ts="2026-03-21T16:32:53.347565" type="customer_add" user="Administrator" detail="Supun Nirman | 0775726873" />
 </log>
