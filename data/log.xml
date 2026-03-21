@@ -40,4 +40,5 @@
   <event ts="2026-03-21T00:17:04.220877" type="checkout" user="Shanaka Sen" detail="TKT-5296C1BA | Walk-in | 0m 11s | LKR 75" />
   <event ts="2026-03-21T08:58:08.179954" type="shop_paid" user="Shanaka Sen" detail="TKT-6193DC36 | Soft Drink | LKR 150" />
   <event ts="2026-03-21T08:58:17.822135" type="shop_paid" user="Shanaka Sen" detail="TKT-6193DC36 | Coffee | LKR 200" />
+  <event ts="2026-03-21T08:58:21.348892" type="shop_paid" user="Shanaka Sen" detail="TKT-6193DC36 | Juice Box | LKR 120" />
 </log>
