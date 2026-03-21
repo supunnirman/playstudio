@@ -33,5 +33,16 @@
     "Rough play, climbing on safety nets, or aggressive behaviour is not permitted.",
     "Staff decisions regarding safety rules are final.",
     "By proceeding, you agree to the PlayStudio Terms & Conditions."
-  ]
+  ],
+  "sms_enabled": false,
+  "sms_port": "COM12",
+  "sms_baud": 115200,
+  "sms_on_start_day": true,
+  "sms_start_number": "0775726873",
+  "sms_on_stop_day": true,
+  "sms_stop_number": "0775726873",
+  "sms_on_coupon_create": true,
+  "sms_coupon_create_num": "0775726873",
+  "sms_on_coupon_use": true,
+  "sms_coupon_use_num": "0775726873"
 }
