@@ -4,7 +4,8 @@
   "phone": "+94 11 234 5678",
   "email": "hello@partymantra.lk",
   "rates": {
-    "standard": 450.0
+    "standard": 450.0,
+    "happy_hour": 350.0
   },
   "min_minutes": 60,
   "receipt_header": "Thank you for visiting PlayStudio!",
