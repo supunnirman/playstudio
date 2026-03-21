@@ -42,4 +42,5 @@
   <event ts="2026-03-21T08:58:17.822135" type="shop_paid" user="Shanaka Sen" detail="TKT-6193DC36 | Coffee | LKR 200" />
   <event ts="2026-03-21T08:58:21.348892" type="shop_paid" user="Shanaka Sen" detail="TKT-6193DC36 | Juice Box | LKR 120" />
   <event ts="2026-03-21T08:58:24.052647" type="shop_paid" user="Shanaka Sen" detail="TKT-6193DC36 | Socks (Kids) | LKR 250" />
+  <event ts="2026-03-21T08:58:27.500660" type="shop_paid" user="Shanaka Sen" detail="TKT-6193DC36 | Soft Drink | LKR 150" />
 </log>
