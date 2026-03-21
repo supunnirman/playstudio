@@ -42,11 +42,13 @@
     "name": "Taniya",
     "username": "taniya",
     "pin": "444000",
-    "role": "supervisor",
+    "role": "manager",
     "perms": [
       "pos",
       "finance",
-      "history"
+      "history",
+      "expenses",
+      "loyalty"
     ]
   }
 ]
