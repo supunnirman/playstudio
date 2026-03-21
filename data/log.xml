@@ -169,4 +169,5 @@
   <event ts="2026-03-21T16:16:13.905711" type="checkout" user="Shanaka Senaviratne" detail="TKT-C01915FF | Walk-in | 1h 0m | LKR 454" />
   <event ts="2026-03-21T16:16:25.899362" type="checkout" user="Shanaka Senaviratne" detail="TKT-C2124D2D | Walk-in | 2h 5m | LKR 943" />
   <event ts="2026-03-21T16:16:29.968441" type="checkout" user="Shanaka Senaviratne" detail="TKT-67EB78BC | Walk-in | 32m 39s | LKR 450" />
+  <event ts="2026-03-21T16:16:34.255832" type="checkout" user="Shanaka Senaviratne" detail="TKT-88CBEF00 | Yuvein | 54m 45s | LKR 315" />
 </log>
