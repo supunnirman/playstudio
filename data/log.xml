@@ -106,4 +106,5 @@
   <event ts="2026-03-21T13:54:48.293186" type="checkout" user="Shanaka Senaviratne" detail="TKT-9AE9D23D | Walk-in | 2h 13m | LKR 750" />
   <event ts="2026-03-21T13:54:51.455336" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-9AE9D23D" />
   <event ts="2026-03-21T13:55:08.876416" type="checkin" user="Shanaka Senaviratne" detail="TKT-A4F295FB | Walk-in | standard | kids=1" />
+  <event ts="2026-03-21T13:55:10.623996" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-A4F295FB" />
 </log>
