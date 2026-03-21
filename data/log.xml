@@ -232,4 +232,5 @@
   <event ts="2026-03-21T16:58:06.973951" type="shop_paid" user="Sandali" detail="TKT-743D4B44 | Juice Box | LKR 120" />
   <event ts="2026-03-21T16:58:12.699112" type="checkout" user="Sandali" detail="TKT-743D4B44 | Walk-in | 3h 5m | LKR 1,388" />
   <event ts="2026-03-21T16:58:18.765640" type="checkout" user="Sandali" detail="TKT-D2F8E330 | Yuvein &amp; Leanna | 5h 4m | LKR 1,941" />
+  <event ts="2026-03-21T16:58:25.249351" type="checkout" user="Sandali" detail="TKT-F9394745 | Walk-in | 1m 20s | LKR 450" />
 </log>
