@@ -8,7 +8,7 @@
     "vip": 550.0,
     "party": 400.0
   },
-  "min_minutes": 30,
+  "min_minutes": 60,
   "receipt_header": "Thank you for visiting PlayStudio!",
   "receipt_footer": "See you again soon!  partymantra.lk",
   "tax_percent": 0.0,
