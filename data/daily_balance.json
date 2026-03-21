@@ -214,5 +214,14 @@
     "amount": 1000.0,
     "note": "Day started by Administrator",
     "user": "Administrator"
+  },
+  {
+    "id": "BAL-AF9618CD",
+    "date": "2026-03-21",
+    "ts": "2026-03-21T17:08:53.144122",
+    "type": "closing",
+    "amount": 50000.0,
+    "note": "Day stopped by Administrator",
+    "user": "Administrator"
   }
 ]
