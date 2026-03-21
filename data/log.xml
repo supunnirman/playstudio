@@ -100,4 +100,5 @@
   <event ts="2026-03-21T12:22:40.515973" type="eod_print" user="Shanaka Sen" detail="EOD thermal | 2026-03-21" />
   <event ts="2026-03-21T13:36:06.496009" type="coupon_print" user="Shanaka Sen" detail="VF9HZ3X2 | printed" />
   <event ts="2026-03-21T13:36:08.022780" type="print" user="Shanaka Sen" detail="receipt | VF9HZ3X2" />
+  <event ts="2026-03-21T13:37:27.767920" type="day_start" user="Shanaka Sen" detail="Opening: LKR 3,500" />
 </log>
