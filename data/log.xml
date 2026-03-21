@@ -189,4 +189,5 @@
   <event ts="2026-03-21T16:41:41.224087" type="shop_paid" user="Sandali" detail="TKT-4343EE6E | Soft Drink | LKR 150" />
   <event ts="2026-03-21T16:41:49.199510" type="shop_paid" user="Sandali" detail="TKT-4343EE6E | Water Bottle | LKR 100" />
   <event ts="2026-03-21T16:41:53.582967" type="shop_paid" user="Sandali" detail="TKT-4343EE6E | Water Bottle | LKR 100" />
+  <event ts="2026-03-21T16:41:57.188176" type="shop_paid" user="Sandali" detail="TKT-4343EE6E | Juice Box | LKR 120" />
 </log>
