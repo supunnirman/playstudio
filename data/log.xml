@@ -235,4 +235,5 @@
   <event ts="2026-03-21T16:58:25.249351" type="checkout" user="Sandali" detail="TKT-F9394745 | Walk-in | 1m 20s | LKR 450" />
   <event ts="2026-03-21T16:58:44.332084" type="day_stop" user="Taniya" detail="Closing: LKR 32,500" />
   <event ts="2026-03-21T16:58:44.539574" type="ui_action" user="Taniya" detail="Stop Day dialog confirmed — EOD opened" />
+  <event ts="2026-03-21T16:58:45.956553" type="eod_print" user="Taniya" detail="EOD thermal | 2026-03-21" />
 </log>
