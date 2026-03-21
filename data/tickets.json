@@ -58,6 +58,7 @@
     "kids": 1,
     "checkin": "2026-03-21T15:21:49.162294",
     "customer_id": "CUS-F5C08F78",
-    "shop_items": []
+    "shop_items": [],
+    "consent_ts": "2026-03-21 15:21"
   }
 ]
