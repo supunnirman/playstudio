@@ -582,5 +582,30 @@
     "tax_amt": 0.0,
     "total": 160.877698425,
     "items_total": 0
+  },
+  {
+    "id": "TKT-6B237D19",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-21T10:55:45.330469",
+    "customer_id": "",
+    "shop_items": [],
+    "consent_ts": "2026-03-21 10:55",
+    "coupon_code": "G6G9E1K8",
+    "coupon_type": "percent",
+    "coupon_value": 25.0,
+    "checkout": "2026-03-21T12:22:20.553678",
+    "date": "2026-03-21",
+    "duration": "1h 26m",
+    "rate": 150,
+    "subtotal": 216.46763370833332,
+    "disc_pct": 0,
+    "disc_amt": 0.0,
+    "coupon_da": 54.116908427083324,
+    "tax_amt": 0.0,
+    "total": 162.35072528125,
+    "items_total": 0
   }
 ]
