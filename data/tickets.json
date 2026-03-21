@@ -58,6 +58,26 @@
         "qty": 1,
         "paid": false,
         "ts": "2026-03-21T16:53:33.486983"
+      },
+      {
+        "id": "SI-DCB41331",
+        "item_id": "SHP-001",
+        "name": "Socks (Kids)",
+        "price": 250,
+        "emoji": "🧦",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-21T16:53:34.223843"
+      },
+      {
+        "id": "SI-0317EB40",
+        "item_id": "SHP-005",
+        "name": "Juice Box",
+        "price": 120,
+        "emoji": "🧃",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-21T16:53:35.526875"
       }
     ]
   }
