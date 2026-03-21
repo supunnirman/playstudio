@@ -45,4 +45,5 @@
   <event ts="2026-03-21T08:58:27.500660" type="shop_paid" user="Shanaka Sen" detail="TKT-6193DC36 | Soft Drink | LKR 150" />
   <event ts="2026-03-21T08:59:16.157494" type="coupon_create" user="Shanaka Sen" detail="1Z4S3NNI | LKR 500 | one-time | expires 2026-03-22 | by Shanaka Sen" />
   <event ts="2026-03-21T08:59:33.594439" type="checkout" user="Shanaka Sen" detail="TKT-6193DC36 | Walk-in | 8h 57m | LKR 1,209" />
+  <event ts="2026-03-21T09:46:59.073161" type="day_stop" user="Shanaka Sen" detail="Closing: LKR 1,284" />
 </log>
