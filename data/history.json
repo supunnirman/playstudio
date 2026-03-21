@@ -558,5 +558,29 @@
     "tax_amt": 0.0,
     "total": 75.43757691666666,
     "items_total": 0
+  },
+  {
+    "id": "TKT-CF4ECB32",
+    "name": "Yuvein",
+    "phone": "0775726873",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-21T10:40:23.407790",
+    "customer_id": "CUS-F5C08F78",
+    "shop_items": [],
+    "checkout": "2026-03-21T11:51:53.479748",
+    "date": "2026-03-21",
+    "duration": "1h 11m",
+    "rate": 150,
+    "subtotal": 178.75299825000002,
+    "disc_pct": 10,
+    "disc_amt": 17.875299825000003,
+    "coupon_code": "",
+    "coupon_type": "",
+    "coupon_value": 0,
+    "coupon_da": 0.0,
+    "tax_amt": 0.0,
+    "total": 160.877698425,
+    "items_total": 0
   }
 ]
