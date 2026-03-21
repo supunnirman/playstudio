@@ -27,6 +27,16 @@
         "qty": 1,
         "paid": false,
         "ts": "2026-03-21T16:35:14.196825"
+      },
+      {
+        "id": "SI-8AC98C93",
+        "item_id": "SHP-004",
+        "name": "Water Bottle",
+        "price": 100,
+        "emoji": "💧",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-21T16:35:17.364516"
       }
     ],
     "consent_ts": "2026-03-21 16:31"
