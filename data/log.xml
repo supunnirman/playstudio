@@ -95,4 +95,5 @@
   <event ts="2026-03-21T12:22:20.549686" type="coupon_redeem" user="Shanaka Sen" detail="G6G9E1K8 | use #1" />
   <event ts="2026-03-21T12:22:20.554724" type="checkout" user="Shanaka Sen" detail="TKT-6B237D19 | Walk-in | 1h 26m | LKR 162" />
   <event ts="2026-03-21T12:22:22.125044" type="print" user="Shanaka Sen" detail="receipt | TKT-6B237D19" />
+  <event ts="2026-03-21T12:22:38.486506" type="day_stop" user="Shanaka Sen" detail="Closing: LKR 7,000" />
 </log>
