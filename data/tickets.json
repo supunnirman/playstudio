@@ -1,36 +1,5 @@
 [
   {
-    "id": "TKT-99CFF606",
-    "name": "Walk-in",
-    "phone": "",
-    "type": "standard",
-    "kids": 1,
-    "checkin": "2026-03-21T12:52:58.730200",
-    "customer_id": "",
-    "shop_items": [
-      {
-        "id": "SI-4064501B",
-        "item_id": "SHP-003",
-        "name": "Coffee",
-        "price": 200,
-        "emoji": "☕",
-        "qty": 1,
-        "paid": false,
-        "ts": "2026-03-21T16:53:09.496049"
-      },
-      {
-        "id": "SI-97F7DE13",
-        "item_id": "SHP-004",
-        "name": "Water Bottle",
-        "price": 100,
-        "emoji": "💧",
-        "qty": 1,
-        "paid": false,
-        "ts": "2026-03-21T16:53:10.959326"
-      }
-    ]
-  },
-  {
     "id": "TKT-51AEF9D8",
     "name": "Walk-in",
     "phone": "",
