@@ -116,4 +116,5 @@
   <event ts="2026-03-21T14:13:34.011551" type="checkout" user="Shanaka Senaviratne" detail="TKT-D6D54496 | Yuvein | 2m 40s | LKR 202" />
   <event ts="2026-03-21T14:13:37.106989" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-D6D54496" />
   <event ts="2026-03-21T14:18:02.292308" type="checkin" user="Shanaka Senaviratne" detail="TKT-A41B4A06 | Yuvein | standard | kids=1" />
+  <event ts="2026-03-21T14:18:06.049395" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-A41B4A06" />
 </log>
