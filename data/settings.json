@@ -45,7 +45,7 @@
   "sms_coupon_create_num": "0775726873",
   "sms_on_coupon_use": true,
   "sms_coupon_use_num": "0775726873",
-  "print_consent": false,
+  "print_consent": true,
   "custom_msg_header": "",
   "custom_msg_footer": "Halloween Party 8th of April. contact  Manager for registration",
   "custom_msg_header_on": false,
