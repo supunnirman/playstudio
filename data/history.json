@@ -438,5 +438,76 @@
     "tax_amt": 0.0,
     "total": 75.0,
     "items_total": 0
+  },
+  {
+    "id": "TKT-6193DC36",
+    "name": "Walk-in",
+    "phone": "0775726873",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-21T00:01:49.240819",
+    "customer_id": "CUS-F5C08F78",
+    "shop_items": [
+      {
+        "id": "SI-763D4446",
+        "item_id": "SHP-002",
+        "name": "Soft Drink",
+        "price": 150,
+        "emoji": "🥤",
+        "qty": 1,
+        "paid": true,
+        "ts": "2026-03-21T00:16:15.740562"
+      },
+      {
+        "id": "SI-E52EC948",
+        "item_id": "SHP-003",
+        "name": "Coffee",
+        "price": 200,
+        "emoji": "☕",
+        "qty": 1,
+        "paid": true,
+        "ts": "2026-03-21T00:16:20.915237"
+      },
+      {
+        "id": "SI-D5E6AF67",
+        "item_id": "SHP-005",
+        "name": "Juice Box",
+        "price": 120,
+        "emoji": "🧃",
+        "qty": 1,
+        "paid": true,
+        "ts": "2026-03-21T00:16:24.343318"
+      },
+      {
+        "id": "SI-B90EC30B",
+        "item_id": "SHP-001",
+        "name": "Socks (Kids)",
+        "price": 250,
+        "emoji": "🧦",
+        "qty": 1,
+        "paid": true,
+        "ts": "2026-03-21T00:16:26.942710"
+      },
+      {
+        "id": "SI-D8D4E799",
+        "item_id": "SHP-002",
+        "name": "Soft Drink",
+        "price": 150,
+        "emoji": "🥤",
+        "qty": 1,
+        "paid": true,
+        "ts": "2026-03-21T00:16:29.345633"
+      }
+    ],
+    "checkout": "2026-03-21T08:59:33.594439",
+    "date": "2026-03-21",
+    "duration": "8h 57m",
+    "rate": 150,
+    "subtotal": 1344.3480675,
+    "disc_pct": 10,
+    "disc_amt": 134.43480675,
+    "tax_amt": 0.0,
+    "total": 1209.91326075,
+    "items_total": 0
   }
 ]
