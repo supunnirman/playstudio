@@ -9,16 +9,5 @@
     "customer_id": "CUS-83ABCBB8",
     "shop_items": [],
     "consent_ts": "2026-03-21 16:37"
-  },
-  {
-    "id": "TKT-61941F59",
-    "name": "Walk-in",
-    "phone": "",
-    "type": "standard",
-    "kids": 1,
-    "checkin": "2026-03-21T16:41:22.795986",
-    "customer_id": "",
-    "shop_items": [],
-    "consent_ts": "2026-03-21 16:41"
   }
 ]
