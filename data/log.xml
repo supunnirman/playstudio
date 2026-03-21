@@ -210,4 +210,5 @@
   <event ts="2026-03-21T16:52:57.587658" type="ui_action" user="Shanaka Senaviratne" detail="Start Day dialog confirmed" />
   <event ts="2026-03-21T16:52:58.730200" type="checkin" user="Shanaka Senaviratne" detail="TKT-99CFF606 | Walk-in | standard | kids=1" />
   <event ts="2026-03-21T16:53:01.795997" type="checkin" user="Shanaka Senaviratne" detail="TKT-51AEF9D8 | Walk-in | standard | kids=1" />
+  <event ts="2026-03-21T16:53:04.486697" type="checkin" user="Shanaka Senaviratne" detail="TKT-743D4B44 | Walk-in | standard | kids=1" />
 </log>
