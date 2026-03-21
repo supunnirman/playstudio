@@ -1,19 +1,5 @@
 [
   {
-    "id": "TKT-6B237D19",
-    "name": "Walk-in",
-    "phone": "",
-    "type": "standard",
-    "kids": 1,
-    "checkin": "2026-03-21T10:55:45.330469",
-    "customer_id": "",
-    "shop_items": [],
-    "consent_ts": "2026-03-21 10:55",
-    "coupon_code": "G6G9E1K8",
-    "coupon_type": "percent",
-    "coupon_value": 25.0
-  },
-  {
     "id": "TKT-9AE9D23D",
     "name": "Walk-in",
     "phone": "",
