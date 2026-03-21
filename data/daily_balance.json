@@ -124,5 +124,14 @@
     "amount": 3500.0,
     "note": "Day started by Administrator",
     "user": "Administrator"
+  },
+  {
+    "id": "BAL-5D08F961",
+    "date": "2026-03-21",
+    "ts": "2026-03-21T12:22:38.484564",
+    "type": "closing",
+    "amount": 7000.0,
+    "note": "Day stopped by Shanaka Sen",
+    "user": "Shanaka Sen"
   }
 ]
