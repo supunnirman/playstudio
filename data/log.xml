@@ -192,4 +192,5 @@
   <event ts="2026-03-21T16:41:57.188176" type="shop_paid" user="Sandali" detail="TKT-4343EE6E | Juice Box | LKR 120" />
   <event ts="2026-03-21T16:42:05.334238" type="checkout" user="Sandali" detail="TKT-4343EE6E | Yuvein | 4h 10m | LKR 1,596" />
   <event ts="2026-03-21T16:42:07.426453" type="print" user="Sandali" detail="receipt | TKT-4343EE6E" />
+  <event ts="2026-03-21T16:42:11.068408" type="sms_receipt" user="Sandali" detail="SMS sent to 0775726873" />
 </log>
