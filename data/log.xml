@@ -147,4 +147,5 @@
   <event ts="2026-03-21T15:15:21.412800" type="print" user="Administrator" detail="receipt | TKT-88AD4676" />
   <event ts="2026-03-21T15:15:40.773537" type="checkin" user="Administrator" detail="TKT-C01915FF | Walk-in | standard | kids=1" />
   <event ts="2026-03-21T15:15:42.828699" type="print" user="Administrator" detail="receipt | TKT-C01915FF" />
+  <event ts="2026-03-21T15:21:49.172592" type="checkin" user="Shanaka Senaviratne" detail="TKT-88CBEF00 | Yuvein | happy_hour | kids=1" />
 </log>
