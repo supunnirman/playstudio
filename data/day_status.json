@@ -1,11 +1,11 @@
 {
   "date": "2026-03-21",
   "started": true,
-  "stopped": false,
+  "stopped": true,
   "opening_amount": 0.0,
-  "closing_amount": null,
+  "closing_amount": 1284.0,
   "started_by": "Shanaka Sen",
-  "stopped_by": "",
+  "stopped_by": "Shanaka Sen",
   "start_time": "2026-03-21T00:00:52.139800",
-  "stop_time": ""
+  "stop_time": "2026-03-21T09:46:59.073161"
 }
