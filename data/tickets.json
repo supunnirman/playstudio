@@ -20,5 +20,15 @@
       }
     ],
     "consent_ts": "2026-03-21 16:37"
+  },
+  {
+    "id": "TKT-5736DA83",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-21T16:45:26.105724",
+    "customer_id": "",
+    "shop_items": []
   }
 ]
