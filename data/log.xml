@@ -67,4 +67,5 @@
   <event ts="2026-03-21T11:35:34.102120" type="print" user="Shanaka Sen" detail="receipt | TKT-7B554CA0" />
   <event ts="2026-03-21T11:36:35.039441" type="day_stop" user="Shanaka Sen" detail="Closing: LKR 1,500" />
   <event ts="2026-03-21T11:36:35.245159" type="ui_action" user="Shanaka Sen" detail="Stop Day dialog confirmed — EOD opened" />
+  <event ts="2026-03-21T11:36:38.952462" type="eod_print" user="Shanaka Sen" detail="EOD thermal | 2026-03-21" />
 </log>
