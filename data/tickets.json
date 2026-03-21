@@ -1,15 +1,5 @@
 [
   {
-    "id": "TKT-714A689F",
-    "name": "Walk-in",
-    "phone": "",
-    "type": "standard",
-    "kids": 1,
-    "checkin": "2026-03-21T12:22:00.748327",
-    "customer_id": "",
-    "shop_items": []
-  },
-  {
     "id": "TKT-A4F295FB",
     "name": "Walk-in",
     "phone": "0775726873",
