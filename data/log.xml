@@ -184,4 +184,5 @@
   <event ts="2026-03-21T16:35:14.196825" type="shop_add" user="Administrator" detail="TKT-4343EE6E | Water Bottle | LKR 100" />
   <event ts="2026-03-21T16:35:17.364516" type="shop_add" user="Administrator" detail="TKT-4343EE6E | Water Bottle | LKR 100" />
   <event ts="2026-03-21T16:35:20.789183" type="shop_add" user="Administrator" detail="TKT-4343EE6E | Juice Box | LKR 120" />
+  <event ts="2026-03-21T16:37:17.607003" type="checkin" user="Administrator" detail="TKT-3C96483E | Walk-in | happy_hour | kids=1" />
 </log>
