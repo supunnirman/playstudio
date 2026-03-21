@@ -219,4 +219,5 @@
   <event ts="2026-03-21T16:53:38.668985" type="shop_add" user="Shanaka Senaviratne" detail="TKT-51AEF9D8 | Soft Drink | LKR 150" />
   <event ts="2026-03-21T16:53:39.135389" type="shop_add" user="Shanaka Senaviratne" detail="TKT-51AEF9D8 | Coffee | LKR 200" />
   <event ts="2026-03-21T16:57:04.988746" type="checkin" user="Sandali" detail="TKT-F9394745 | Walk-in | standard | kids=1" />
+  <event ts="2026-03-21T16:57:15.727878" type="checkout" user="Sandali" detail="TKT-99CFF606 | Walk-in | 4h 4m | LKR 2,132" />
 </log>
