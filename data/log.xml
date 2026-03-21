@@ -114,4 +114,5 @@
   <event ts="2026-03-21T14:10:56.244078" type="sms_receipt" user="Shanaka Senaviratne" detail="SMS receipt sent to 0775726873" />
   <event ts="2026-03-21T14:10:58.351845" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-D6D54496" />
   <event ts="2026-03-21T14:13:34.011551" type="checkout" user="Shanaka Senaviratne" detail="TKT-D6D54496 | Yuvein | 2m 40s | LKR 202" />
+  <event ts="2026-03-21T14:13:37.106989" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-D6D54496" />
 </log>
