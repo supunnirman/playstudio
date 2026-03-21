@@ -141,5 +141,15 @@
     "checkin": "2026-03-21T11:53:47.830722",
     "customer_id": "CUS-83ABCBB8",
     "shop_items": []
+  },
+  {
+    "id": "TKT-F9394745",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-21T16:57:04.988746",
+    "customer_id": "",
+    "shop_items": []
   }
 ]
