@@ -127,4 +127,5 @@
   <event ts="2026-03-21T14:27:51.483623" type="checkin" user="Shanaka Senaviratne" detail="TKT-E2382D56 | Walk-in | standard | kids=1" />
   <event ts="2026-03-21T14:27:54.295829" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-E2382D56" />
   <event ts="2026-03-21T14:33:13.136539" type="day_stop" user="Shanaka Senaviratne" detail="Closing: LKR 8,000" />
+  <event ts="2026-03-21T14:33:13.343357" type="ui_action" user="Shanaka Senaviratne" detail="Stop Day dialog confirmed — EOD opened" />
 </log>
