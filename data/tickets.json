@@ -5,7 +5,7 @@
     "phone": "",
     "type": "happy_hour",
     "kids": 1,
-    "checkin": "2026-03-21T12:37:17.607003",
+    "checkin": "2026-03-21T11:37:17.607003",
     "customer_id": "CUS-83ABCBB8",
     "shop_items": [
       {
@@ -16,7 +16,7 @@
         "emoji": "🥤",
         "qty": 1,
         "paid": true,
-        "ts": "2026-03-21T16:44:49.528402"
+        "ts": "2026-03-21T12:44:49.528402"
       }
     ],
     "consent_ts": "2026-03-21 16:37"
@@ -27,7 +27,7 @@
     "phone": "",
     "type": "standard",
     "kids": 1,
-    "checkin": "2026-03-21T16:45:26.105724",
+    "checkin": "2026-03-21T13:45:26.105724",
     "customer_id": "",
     "shop_items": [],
     "consent_ts": "2026-03-21 16:45"
