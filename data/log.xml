@@ -153,4 +153,5 @@
   <event ts="2026-03-21T15:41:29.033188" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-A4F295FB" />
   <event ts="2026-03-21T15:42:42.431240" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-A4F295FB" />
   <event ts="2026-03-21T15:43:05.903721" type="checkout" user="Shanaka Senaviratne" detail="TKT-A4F295FB | Walk-in | 1h 47m | LKR 728" />
+  <event ts="2026-03-21T15:43:07.894094" type="print" user="Shanaka Senaviratne" detail="receipt | TKT-A4F295FB" />
 </log>
