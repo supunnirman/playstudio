@@ -15,10 +15,10 @@
   },
   {
     "id": "USR-F9D37D17",
-    "name": "Shanaka Sen",
+    "name": "Shanaka Senaviratne",
     "username": "Shanaka",
     "pin": "555000",
-    "role": "manager",
+    "role": "admin",
     "perms": [
       "pos",
       "finance",
