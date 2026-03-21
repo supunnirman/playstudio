@@ -221,4 +221,5 @@
   <event ts="2026-03-21T16:57:04.988746" type="checkin" user="Sandali" detail="TKT-F9394745 | Walk-in | standard | kids=1" />
   <event ts="2026-03-21T16:57:15.727878" type="checkout" user="Sandali" detail="TKT-99CFF606 | Walk-in | 4h 4m | LKR 2,132" />
   <event ts="2026-03-21T16:57:36.052050" type="shop_paid" user="Sandali" detail="TKT-51AEF9D8 | Soft Drink | LKR 150" />
+  <event ts="2026-03-21T16:57:38.470152" type="shop_paid" user="Sandali" detail="TKT-51AEF9D8 | Coffee | LKR 200" />
 </log>
