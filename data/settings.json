@@ -5,7 +5,6 @@
   "email": "hello@partymantra.lk",
   "rates": {
     "standard": 450.0,
-    "vip": 550.0,
     "party": 400.0
   },
   "min_minutes": 60,
