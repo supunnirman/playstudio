@@ -48,4 +48,5 @@
   <event ts="2026-03-21T09:46:59.073161" type="day_stop" user="Shanaka Sen" detail="Closing: LKR 1,284" />
   <event ts="2026-03-21T09:46:59.450283" type="ui_action" user="Shanaka Sen" detail="Stop Day dialog confirmed — EOD opened" />
   <event ts="2026-03-21T10:04:44.766067" type="day_start" user="Shanaka Sen" detail="Opening: LKR 2,000" />
+  <event ts="2026-03-21T10:04:44.916826" type="ui_action" user="Shanaka Sen" detail="Start Day dialog confirmed" />
 </log>
