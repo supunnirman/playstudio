@@ -34,5 +34,17 @@
     "created_by": "Shanaka Sen",
     "created_at": "2026-03-21T08:59:16.157494",
     "note": ""
+  },
+  {
+    "code": "GSZ25DNZ",
+    "disc_type": "percent",
+    "disc_value": 25.0,
+    "expires_on": "2026-03-22",
+    "max_uses": 1,
+    "uses": 0,
+    "active": true,
+    "created_by": "Shanaka Sen",
+    "created_at": "2026-03-21T11:34:27.181805",
+    "note": "TODAY ONLY"
   }
 ]
