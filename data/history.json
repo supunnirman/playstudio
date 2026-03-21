@@ -1099,5 +1099,50 @@
     "tax_amt": 0.0,
     "total": 1360.690314,
     "items_total": 0
+  },
+  {
+    "id": "TKT-99CFF606",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-21T12:52:58.730200",
+    "customer_id": "",
+    "shop_items": [
+      {
+        "id": "SI-4064501B",
+        "item_id": "SHP-003",
+        "name": "Coffee",
+        "price": 200,
+        "emoji": "☕",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-21T16:53:09.496049"
+      },
+      {
+        "id": "SI-97F7DE13",
+        "item_id": "SHP-004",
+        "name": "Water Bottle",
+        "price": 100,
+        "emoji": "💧",
+        "qty": 1,
+        "paid": false,
+        "ts": "2026-03-21T16:53:10.959326"
+      }
+    ],
+    "checkout": "2026-03-21T16:57:15.725870",
+    "date": "2026-03-21",
+    "duration": "4h 4m",
+    "rate": 450.0,
+    "subtotal": 1832.1244587500003,
+    "disc_pct": 0,
+    "disc_amt": 0.0,
+    "coupon_code": "",
+    "coupon_type": "",
+    "coupon_value": 0,
+    "coupon_da": 0.0,
+    "tax_amt": 0.0,
+    "total": 2132.1244587500005,
+    "items_total": 300
   }
 ]
