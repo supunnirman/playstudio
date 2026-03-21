@@ -58,5 +58,17 @@
     "created_by": "Administrator",
     "created_at": "2026-03-21T11:51:26.413982",
     "note": ""
+  },
+  {
+    "code": "G6G9E1K8",
+    "disc_type": "percent",
+    "disc_value": 25.0,
+    "expires_on": "2026-03-26",
+    "max_uses": 1,
+    "uses": 0,
+    "active": true,
+    "created_by": "Administrator",
+    "created_at": "2026-03-21T12:03:28.231109",
+    "note": ""
   }
 ]
