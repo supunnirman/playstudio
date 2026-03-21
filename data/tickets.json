@@ -55,7 +55,7 @@
         "price": 150,
         "emoji": "🥤",
         "qty": 1,
-        "paid": false,
+        "paid": true,
         "ts": "2026-03-21T00:16:29.345633"
       }
     ]
