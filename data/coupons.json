@@ -65,8 +65,8 @@
     "disc_value": 25.0,
     "expires_on": "2026-03-26",
     "max_uses": 1,
-    "uses": 0,
-    "active": true,
+    "uses": 1,
+    "active": false,
     "created_by": "Administrator",
     "created_at": "2026-03-21T12:03:28.231109",
     "note": ""
