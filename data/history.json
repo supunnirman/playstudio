@@ -1015,5 +1015,28 @@
     "tax_amt": 0.0,
     "total": 1596.9668439125003,
     "items_total": 0
+  },
+  {
+    "id": "TKT-61941F59",
+    "name": "Walk-in",
+    "phone": "",
+    "type": "standard",
+    "kids": 1,
+    "checkin": "2026-03-21T16:41:22.795986",
+    "customer_id": "",
+    "shop_items": [],
+    "consent_ts": "2026-03-21 16:41",
+    "checkout": "2026-03-21T16:43:06.279719",
+    "date": "2026-03-21",
+    "duration": "VOIDED",
+    "rate": 0,
+    "subtotal": 0,
+    "disc_pct": 0,
+    "disc_amt": 0,
+    "tax_amt": 0,
+    "total": 0,
+    "items_total": 0,
+    "voided": true,
+    "void_reason": "FOC — under 30 min"
   }
 ]
