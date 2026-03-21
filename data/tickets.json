@@ -39,6 +39,9 @@
     "kids": 1,
     "checkin": "2026-03-21T11:41:21.005660",
     "customer_id": "",
-    "shop_items": []
+    "shop_items": [],
+    "coupon_code": "GSZ25DNZ",
+    "coupon_type": "percent",
+    "coupon_value": 25.0
   }
 ]
